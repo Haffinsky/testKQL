@@ -1,0 +1,30 @@
+IntelName
+Unsigned Process Modifying Files in Windows Directory
+Non Break Space Character
+Chrome Modifying Files in Windows Directory
+Microsoft Edge Modifying Files in Windows Directory
+Non-Ssms Spawned SQL Client Tools PowerShell Session
+Suspicious System Management Automation Image Load
+Emotet Active Payloads Dec. 3
+Netsh WLAN Discovery
+Common Language Runtime Image Load
+Spooler Service Creating or Spawning Executables
+Chrome Spawned CMD
+Excel Spawned Connection to Port 443
+Edge Spawned CMD
+Non-Microsoft Signed Print Spooler Driver
+Hosts File Modification
+Control Panel Items
+Unsigned Process Creating a Library
+Word Spawned Connection to Port 443
+Werfault with Suspicious Command Invocation
+PowerPoint Spawned Connection to Port 443
+Excel Spawned Connection to Port 80
+Unsigned Process Creating a Binary
+Microsoft Workflow Compiler Misuse
+Script Based Scheduled Tasks
+Log4j Scanning Hosts
+Password Values in Registry
+Word Spawned Connection to Port 80
+Zone Identifier ADS Deletion
+Suspicious HTA Execution
