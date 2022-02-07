@@ -1,4 +1,40 @@
 IntelName
+Log4j
+Defender Intel
+COM Hijack Persistence System Management Automation
+HEMA pentest#
+Unsigned Process Creating a PowerShell Script
+User Added to Local Administrators
+Windows Accessibility Logon Bypasses
+RDP Tunneling
+Office Applications Executing AppData Binaries
+Persistence using Office Templates and Trusts
+Uncommon XSL Script Execution
+Firefox Modifying Files in Windows Directory
+COM Hijack Reg
+Suspicious PowerShell Command Line
+Disable Windows Defender
+Kerberoasting
+HAFNIUM
+PowerPoint Spawned Connection to Port 80
+Indicators of Compromise Associated with Hive Ransomware
+Remote Service Control Named Pipe Interaction
+Suspicious PowerShell Process Ancestry
+Persistence via Certificate Store Provider
+Ie4uinit Binary Duplication
+Command Shell Launched by Office Applications
+Indirect Command Execution
+Log4j File Hashes
+Hive Ransomware
+Descendant of AppData Process Running as System
+RunDLL INF Script Execution
+PowerShell Prompted For User Credentials
+Administrator Account Enumeration
+Windows Session Enumeration pipelsarpc
+Uncommon RegSvcs & RegAsm Script Execution
+Control Panel Items Shell32
+Word Spawned Process Creating EXE Files
+MMC Execute COM Payload
 WMIC Antivirus Discovery
 Excel Web Query Execution
 Msdt Execution Bypass with Answer File
@@ -9,37 +45,7 @@ Unsigned Process Creating a Driver
 REGSVR32 Script Component Runtime Misuse
 InstallUtil AppLocker Bypass DLL
 Regasm DLL Load
-Services Running as not System
 Nltest Discovery
 MSIExec Remote Execution
-PowerShell Prompted For User Credentials
+Services Running as not System
 Windows Session Enumeration pipesamr
-Ie4uinit Binary Duplication
-Descendant of AppData Process Running as System
-Administrator Account Enumeration
-Windows Session Enumeration pipelsarpc
-Uncommon RegSvcs & RegAsm Script Execution
-Control Panel Items Shell32
-MMC Execute COM Payload
-Word Spawned Process Creating EXE Files
-Persistence via Certificate Store Provider
-Indirect Command Execution
-Log4j File Hashes
-Hive Ransomware
-RunDLL INF Script Execution
-Command Shell Launched by Office Applications
-Indicators of Compromise Associated with Hive Ransomware
-Remote Service Control Named Pipe Interaction
-Suspicious PowerShell Process Ancestry
-PowerPoint Spawned Connection to Port 80
-HAFNIUM
-Kerberoasting
-Unsigned Process Creating a PowerShell Script
-Suspicious PowerShell Command Line
-Emotet Active Payloads Dec. 3, 2021
-COM Hijack Reg
-Disable Windows Defender
-Firefox Modifying Files in Windows Directory
-Uncommon XSL Script Execution
-Persistence using Office Templates and Trusts
-RDP Tunneling
